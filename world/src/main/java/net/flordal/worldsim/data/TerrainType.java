@@ -5,5 +5,5 @@ package net.flordal.worldsim.data;
  */
 public enum TerrainType {
 
-    
+
 }
